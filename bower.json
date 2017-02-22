@@ -1,0 +1,21 @@
+{
+  "name": "1011 Motors",
+  "version": "0.1.0",
+  "authors": [
+    "Angel Refamonte <angelrefamonte@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "components-font-awesome": "~4.3.0",
+    "bootswatch": "~3.3.4+1",
+    "bootstrap-select": "~1.6.5",
+    "bootstrap-notify": "~0.2.0"
+  }
+}
